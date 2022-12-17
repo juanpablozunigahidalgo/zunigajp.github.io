@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Juan Pablo.", "Engineer.", "Data coder.", "Cyclist.", "Financial analyst.", "Swimmer." ,"Not defined by a title.", "Juan Pablo.", " Ingeniero.", "Programador.", "Ciclista.","Analista financiero.","Nadador.","No estoy definido por un titulo.","Juan Pablo.","Ingenjör.","Utvecklare.","Cyklist.","Finansiell analytiker.","Simmare.","Jag definieras inte av en titel."],
+      strings: ["Juan Pablo.", "Engineer.", "Data coder.", "Cyclist.", "Financial analyst.", "Swimmer." ,"Not defined by a title.", "Juan Pablo.", " Ingeniero.", "Programador.", "Ciclista.","Analista financiero.","Nadador.","No estoy definido por un titulo.","Juan Pablo.","Ingenjör.","Utvecklare.","Cyklist.","Finansiell analytiker.","Simmare.","Jag definieras inte av en titel.","Juan Pablo.","Ingegnere.","Sviluppatore.","Ciclista.","Analista finanziario.","Nuotatore.","Non sono definito da un titolo."],
       typeSpeed: 120,
       loop: true,
     });
