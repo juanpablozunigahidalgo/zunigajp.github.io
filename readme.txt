@@ -1,7 +1,7 @@
 # Message
 
-This is a website I made in my journey to get better on code.
+I made this website. On my journey to learn code. 
 
-While learning to configure Git-hub pages. Google domains. And stuff.
+While using Git-hub pages. Google domains. Analytics. And stuff.
 
-Specifies personal portfolio and current projects.
+Resumes a personal portfolio and current projects.
